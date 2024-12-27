@@ -1,5 +1,5 @@
 package externalizegolib
 
 func Version() string {
-	return "v1.0.0"
+	return "v4.0.0"
 }
